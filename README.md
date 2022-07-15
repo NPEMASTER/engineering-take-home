@@ -23,7 +23,9 @@ Aim for basics and skip the sticky parts. You are not being evaluated on the num
 When you submit your project, we will review it and schedule a 60-minute call to go over your work. On that call, be prepared to talk about
  * Design decisions
  * Data pipelines
- * UX libraries (if you used one)
+ * UX libraries
+ * Tests
+ * Dependencies
  * Database structures
  * Algorithm design
  * Trade-offs
