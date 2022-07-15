@@ -49,7 +49,7 @@ GreenCo is considering sending a bid to Fun in the Sun to purchase its energy fo
 We can use publicly amiable historical price data at the delivery point where Fun in the Sun will deliver its electricity. Using this data and the 12x24 provided by Fun in the Sun, we can show GreenCo whether its bid would have been profitable over the past year.  
 
 # The Assignment
-Create an app that allows a user at GreenCo to quickly determines whether a bid price would have resulted in a profit or loss for each hour in a given year. The app will need to look at the yearly electricity price data at the HB_HOUSTON settlement point, Fun in the Sun’s 12x24 generation profile, and GreenCo’s PPA price bid. 
+Create an app that allows a user at GreenCo to quickly determines whether a bid price would have resulted in a profit or loss for a given year. The app will need to look at the yearly electricity price data at the HB_HOUSTON settlement point, Fun in the Sun’s 12x24 generation profile, and GreenCo’s PPA price bid. 
 
 You will need to use the `generationProfile.csv` included here combined with historical pricing data found [here](https://www.ercot.com/mp/data-products/data-product-details?id=NP4-180-ER).
 
@@ -57,10 +57,11 @@ You will need to use the `generationProfile.csv` included here combined with his
  - Import historical data for the year 2010-2021 at HB_HOUSTON settlement point 
  - Take a user’s input for PPA price as input on the front end
  - Take a user's input for the year they want to know the profit or loss for
- - Write code that sums the profit or loss for each hour in the year specified. This will involve combing the following:
+ - Write code that sums the profit or loss for each hour in the year specified. This will involve combining the following:
     - $/MWH price for each hour in the year (FYI there are 8760 hours in a year)
     - The quantity of MWHs the 12x24 says will be delivered in that hour
     - The users price
+- Return the profit or loss for the year and price specified 
 
 ## Frontend
 Your frontend would ideally be a Typescript React app, though if another technology is easier for you then go for that. The command to start this frontend should be included in a separate `README-your-name.md` file. Place your frontend code in `/frontend`.
