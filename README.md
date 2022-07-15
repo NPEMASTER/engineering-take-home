@@ -46,7 +46,7 @@ To help GreenCo understand the volume of electricity that it expects to generate
 
 GreenCo is considering sending a bid to Fun in the Sun to purchase its energy for [$X] per megawatt hour. RenewaFi wants to help GreenCo understand whether they stand to make money or lose money by entering this bid.  
 
-We can use publicly amiable historical price data at the delivery point where Fun in the Sun will deliver its electricity. Using this data and the 12x24 provided by Fun in the Sun, we can show GreenCo whether its bid would have been profitable over the past year.  
+We can use publicly amiable historical price data at the delivery point where Fun in the Sun will deliver its electricity. Using this data and the 12x24 provided by Fun in the Sun, we can show GreenCo whether its bid would have been profitable over the specified year.  
 
 # The Assignment
 Create an app that allows a user at GreenCo to quickly determines whether a bid price would have resulted in a profit or loss for a given year. The app will need to look at the yearly electricity price data at the HB_HOUSTON settlement point, Fun in the Sun’s 12x24 generation profile, and GreenCo’s PPA price bid. 
