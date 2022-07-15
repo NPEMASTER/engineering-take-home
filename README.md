@@ -60,7 +60,7 @@ You will need to use the `generationProfile.csv` included here combined with his
  - Write code that sums the profit or loss for each hour in the year specified. This will involve combining the following:
     - $/MWH price for each hour in the year (FYI there are 8760 hours in a year)
     - The quantity of MWHs the 12x24 says will be delivered in that hour
-    - The users price
+    - The users price and year
 - Return the profit or loss for the year and price specified by the user
 
 ## Frontend
