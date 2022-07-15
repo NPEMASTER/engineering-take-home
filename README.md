@@ -49,7 +49,7 @@ We can use publicly amiable historical price data at the delivery point where Fu
 # The Assignment
 Create an app that allows a user at GreenCo to quickly determines whether a bid price would have resulted in a profit or loss for each hour in the year 2021. The app will need to look at the 2021 electricity price data at the HB_HOUSTON settlement point, Fun in the Sun’s 12x24 generation profile, and *GreenCo’s* PPA price bid. 
 
-You will need to use the `generationProfile.csv` included here combined with historical pricing data found (here)[https://www.ercot.com/mp/data-products/data-product-details?id=NP4-180-ER].
+You will need to use the `generationProfile.csv` included here combined with historical pricing data found [here](https://www.ercot.com/mp/data-products/data-product-details?id=NP4-180-ER).
 
 ## Requirements
  - Import historical data for the year 2021 at HB_HOUSTON settlement point 
