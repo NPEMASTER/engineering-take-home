@@ -55,13 +55,13 @@ You will need to use the `generationProfile.csv` included here combined with his
 
 ## Requirements
  - Import historical data for the year 2010-2021 at HB_HOUSTON settlement point 
- - Take a user’s input for PPA price as input on the front end
+ - Take a user’s input for PPA price as input
  - Take a user's input for the year they want to know the profit or loss for
  - Write code that sums the profit or loss for each hour in the year specified. This will involve combining the following:
     - $/MWH price for each hour in the year (FYI there are 8760 hours in a year)
     - The quantity of MWHs the 12x24 says will be delivered in that hour
     - The users price
-- Return the profit or loss for the year and price specified 
+- Return the profit or loss for the year and price specified by the user
 
 ## Frontend
 Your frontend would ideally be a Typescript React app, though if another technology is easier for you then go for that. The command to start this frontend should be included in a separate `README-your-name.md` file. Place your frontend code in `/frontend`.
