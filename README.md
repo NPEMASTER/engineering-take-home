@@ -65,4 +65,4 @@ You will need to use the `generationProfile.csv` included here combined with his
 Your frontend would ideally be a Typescript React app, though if another technology is easier for you then go for that. The command to start this frontend should be included in a separate `README-your-name.md` file. Place your frontend code in `/frontend`.
 
 ## Backend
-Your backend must be a Python app, though the web app should be whatever you think makes most sense for this project. The command to start this backend should be included in a separate ` README-your-name.md` file. Place your backend code in `/backend`.
+Your backend must be a Python app, though the framework should be whatever you think makes most sense for this project. The command to start this backend should be included in a separate ` README-your-name.md` file. Place your backend code in `/backend`.
