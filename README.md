@@ -1,14 +1,14 @@
 # Intro
 Thank you for taking the time to complete RenewaFi’s engineering assessment. 
 
-This assessment is designed to introduce you to some of the concepts in the renewable energy financing space while also providing you ample room to show us how you work. We have tried to be highly considerate of your time by creating an assessment that is straightforward and engaging. 
+This assessment is designed to introduce you to some of the basic concepts in the renewable energy financing space while also providing you ample room to show us how you work. We have tried to be highly considerate of your time by creating an assessment that is straightforward, but not boring. 
 
 This assessment will be the main point of discussion during your final technical interview.
 
 # Time
 Four hours should be sufficient to complete this assessment. If, however, you have not completed the project after four hours, either stop and we will evaluate your work based on how far you got or continue and let us know how long it actually took.
 
-If four hours is not enough time, please do not feel obligated to continue working. An unfinished project with a clear explanation of how you spent your time is acceptable. 
+If four hours is not enough time, please do not feel obligated to continue working. An unfinished project with a clear explanation of how you spent your time is acceptable.
 
 If four hours is too much time or you want to further explore this data, feel free to build in extra features or visualizations.
 
@@ -54,7 +54,7 @@ Create an app that allows a user at GreenCo to quickly determines whether a bid 
 You will need to use the `generationProfile.csv` included here combined with historical pricing data found [here](https://www.ercot.com/mp/data-products/data-product-details?id=NP4-180-ER).
 
 ## Requirements
- - Import historical data for the year 2010-2021 at HB_HOUSTON settlement point 
+ - Import historical data for the year 2010-2021 at HB_HOUSTON settlement point
  - Take a user’s input for PPA price as input
  - Take a user's input for the year they want to know the profit or loss for
  - Write code that sums the profit or loss for each hour in the year specified. This will involve combining the following:
@@ -67,4 +67,4 @@ You will need to use the `generationProfile.csv` included here combined with his
 Your frontend would ideally be a Typescript React app, though if another technology is easier for you then go for that. The command to start this frontend should be included in a separate `README-your-name.md` file. Place your frontend code in `/frontend`.
 
 ## Backend
-Your backend must be a Python app, though the framework should be whatever you think makes most sense for this project. The command to start this backend should be included in a separate ` README-your-name.md` file. Place your backend code in `/backend`.
+Your backend must be a Python app, though the framework should be whatever you think makes most sense for this project. The command to start this backend and the process to seed the data should be included in a separate ` README-your-name.md` file. Place your backend code in `/backend`.
