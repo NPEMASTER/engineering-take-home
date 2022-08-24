@@ -8,9 +8,7 @@ This assessment will be the main point of discussion during your final technical
 # Time
 Four hours should be sufficient to complete this assessment. If, however, you have not completed the project after four hours, either stop and we will evaluate your work based on how far you got or continue and let us know how long it actually took.
 
-If four hours is not enough time, please do not feel obligated to continue working. An unfinished project with a clear explanation of how you spent your time is acceptable.
-
-If four hours is too much time or you want to further explore this data, feel free to build in extra features or visualizations.
+If four hours is not enough time for you to finish the project, please do not feel obligated to continue working. That said, do not stop mid thought and leave sloppy code behind. This code doesn't need to scale or be tested, but it should be complete enough that you can stand behind the decisions you did make.
 
 # Process
  1. Clone this repository
