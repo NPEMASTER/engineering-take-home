@@ -18,7 +18,7 @@ If four hours is not enough time for you to finish the project, please do not fe
 # Evaluation
 Aim for basics and skip the sticky parts. You are not being evaluated on the number of lines of code you write, but on the quality and economy of what you write to satisfy the challenge.
 
-When you submit your project, we will review it and schedule a 60-minute call to go over your work. On that call, be prepared to talk about
+When you submit your project, we will review it and schedule a 90-minute call to go over your work. On that call, be prepared to talk about
  * Design decisions
  * Data pipelines
  * UX libraries
