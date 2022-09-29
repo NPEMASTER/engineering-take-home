@@ -22,7 +22,7 @@ When you submit your project, we will review it and schedule a 60-minute call to
  * Design decisions
  * Data pipelines
  * UX libraries
- * Tests
+ * Tests you would write in the future
  * Dependencies
  * Database structures
  * Algorithm design
@@ -52,7 +52,7 @@ Create an app that allows a user at GreenCo to quickly determines whether a bid 
 You will need to use the `generationProfile.csv` included here combined with historical pricing data found [here](https://www.ercot.com/mp/data-products/data-product-details?id=NP4-180-ER).
 
 ## Requirements
- - Import historical data for the year 2010-2021 at HB_HOUSTON settlement point
+ - Import historical data for the year 2010-2021 at HB_HOUSTON settlement point (heads up, this is an imperfect dataset)
  - Take a user’s input for PPA price as input
  - Take a user's input for the year they want to know the profit or loss for
  - Write code that sums the profit or loss for each hour in the year specified. This will involve combining the following:
