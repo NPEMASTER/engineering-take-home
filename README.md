@@ -17,7 +17,7 @@ If four hours is not enough time for you to finish the project, please do not fe
 # Evaluation
 Aim for basics and skip the sticky parts. You are not being evaluated on the number of lines of code you write, but on the quality and economy of what you write to satisfy the challenge. If you do not complete all the functionality have a clear plan for what you would do next.
 
-When you submit your project, we will review it and schedule a 90-minute call to go over your work (45minutes on this and 45 minutes on other questions). Here are things we will be focused on during that call
+When you submit your project, we will review it and schedule a 90-minute call to go over your work (45 minutes on this and 45 minutes on other questions). Here are things we will be focused on during that call
  * Did you understand the problem?
  * Did you have good reasons for designing the app the way you did?
  * Can you thoroughly explain the tradeoffs you made?
