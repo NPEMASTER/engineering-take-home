@@ -8,28 +8,23 @@ This assessment will be the main point of discussion during your final technical
 # Time
 Four hours should be sufficient to complete this assessment. If, however, you have not completed the project after four hours, either stop and we will evaluate your work based on how far you got or continue and let us know how long it actually took.
 
-If four hours is not enough time for you to finish the project, please do not feel obligated to continue working. That said, do not stop mid thought and leave sloppy code behind. This code doesn't need to scale or be tested, but it should be complete enough that you can stand behind the decisions you did make.
-
+If four hours is not enough time for you to finish the project, please do not feel obligated to continue working. That said, do not stop mid thought and leave sloppy code behind. You need to able to stand by your decisions and explain where you are going next with the project. We have received half finished take-homes that were great and excessively thorough take-homes that were very weak. 
 # Process
  1. Clone this repository
  2. Work on the project (feel free to email us with any questions)
  3. Submit your project by emailing a .zip to **daniel@renewafi.com**
 
 # Evaluation
-Aim for basics and skip the sticky parts. You are not being evaluated on the number of lines of code you write, but on the quality and economy of what you write to satisfy the challenge.
+Aim for basics and skip the sticky parts. You are not being evaluated on the number of lines of code you write, but on the quality and economy of what you write to satisfy the challenge. If you do not complete all the functionality have a clear plan for what you would do next.
 
-When you submit your project, we will review it and schedule a 90-minute call to go over your work. On that call, be prepared to talk about
- * Design decisions
- * Data pipelines
- * UX libraries
- * Tests you would write in the future
- * Dependencies
- * Database structures
- * Algorithm design
- * Trade-offs
- * Possible places to expand
- * Observations you may have come across with this data
- * Cool things you're proud of
+When you submit your project, we will review it and schedule a 90-minute call to go over your work (45minutes on this and 45 minutes on other questions). Here are things we will be focused on during that call
+ * Did you understand the problem?
+ * Did you have good reasons for designing the app the way you did?
+ * Can you thoroughly explain the tradeoffs you made?
+ * How much time did you spend on each part of your project and why?
+ * What part of the apps need improvement?
+ * What are you most proud of in the app?
+
 
 # Background  
 RenewaFi helps connect buyers and sellers of wholesale renewable energy. In this instance, a buyer – “GreenCo” – is considering procuring renewable energy from a proposed solar plant – “Fun in the Sun.” The contract that GreenCo would enter to purchase *Fun in the Sun’s* electricity is called a Power Purchase Agreement (PPA). 
