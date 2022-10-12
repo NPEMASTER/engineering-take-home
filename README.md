@@ -65,5 +65,5 @@ Your backend must be a Python app, though the framework should be whatever you t
 
 ### zip format
  Asking folks compress projects is not very eloquent, but it is simple. There are few things to keep in mind before sending your project
- - Name your zip `engineering-take-home-YOUR-NAME.`
- - Do not include the 3rd party libraries you used in your zip. Your startup scripts should handle the downloading of those (pip install, yarn install etc.)
+ - Name your zip `engineering-take-home-YOUR-NAME`.
+ - Do not include the 3rd party libraries in your zip. Your startup scripts should handle the downloading of those (pip install, yarn install etc.)
