@@ -52,7 +52,7 @@ Create an app that allows a user at GreenCo to quickly determines whether a bid 
 You will need to use the `generationProfile.csv` included here combined with historical pricing data found [here](https://www.ercot.com/mp/data-products/data-product-details?id=NP4-180-ER).
 
 ## Requirements
- - Import historical data for the year 2010-2021 at HB_HOUSTON settlement point (heads up, this is an imperfect dataset)
+ - Import historical data for the year 2011-2021 at HB_HOUSTON settlement point
  - Take a user’s input for PPA price as input
  - Take a user's input for the year they want to know the profit or loss for
  - Write code that sums the profit or loss for each hour in the year specified. This will involve combining the following:
@@ -61,8 +61,14 @@ You will need to use the `generationProfile.csv` included here combined with his
     - The users price and year
 - Return the profit or loss for the year and price specified by the user
 
-## Frontend
+## Logistics
+### Frontend
 Your frontend would ideally be a Typescript React app, though if another technology is easier for you then go for that. The command to start this frontend should be included in a separate `README-your-name.md` file. Place your frontend code in `/frontend`.
 
-## Backend
+### Backend
 Your backend must be a Python app, though the framework should be whatever you think makes most sense for this project. The command to start this backend and the process to seed the data should be included in a separate ` README-your-name.md` file. Place your backend code in `/backend`.
+
+### zip format
+ Asking folks compress projects is not very eloquent, but it is simple. There are few things to keep in mind before sending your project
+ - Name your zip `engineering-take-home-YOUR-NAME.`
+ - Do not include the 3rd party libraries you used in your zip. Your startup scripts should handle the downloading of those (pip install, yarn install etc.)
